@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+langgraph
+
+dotenv
+
+streamlit
+
+# pip install -r requirements.txt
