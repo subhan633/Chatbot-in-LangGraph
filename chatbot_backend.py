@@ -14,7 +14,7 @@ groq_api_key = os.getenv("GROQ_API_KEY")
 # Initialize the Groq model
 model = ChatGroq(
     api_key=groq_api_key,
-    model="llama-3.3-70b-versatile",
+    model="openai/gpt-oss-120b",
     temperature=0.7,          # Adjust for response randomness
 )
 
