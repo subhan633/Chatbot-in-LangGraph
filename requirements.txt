@@ -1,9 +1,8 @@
 langchain
 langchain-groq
 langgraph
-
 dotenv
-
 streamlit
+langgraph-checkpoint-sqlite
 
 # pip install -r requirements.txt
